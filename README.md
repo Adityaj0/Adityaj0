@@ -13,12 +13,16 @@ Senior at UC Irvine, studying Computer Science with a specialization in Intellig
 ### Open Source Contributions
 Repos where my pull requests have been merged:
 
-<img width="100%" src="https://raw.githubusercontent.com/Adityaj0/Adityaj0/main/contributions.svg" alt="Open Source Contributions" />
-
-- [aws/aws-cdk-cli](https://github.com/aws/aws-cdk-cli)
-- [ml-explore/mlx](https://github.com/ml-explore/mlx)
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)
-- [lancedb/lancedb](https://github.com/lancedb/lancedb)
-- [pactus-project/pactus-wallet](https://github.com/pactus-project/pactus-wallet)
+<table>
+<tr>
+<td><a href="https://github.com/aws/aws-cdk-cli"><img width="280" src="https://raw.githubusercontent.com/Adityaj0/Adityaj0/main/cards/aws-cdk-cli.svg" alt="aws-cdk-cli" /></a></td>
+<td><a href="https://github.com/ml-explore/mlx"><img width="280" src="https://raw.githubusercontent.com/Adityaj0/Adityaj0/main/cards/mlx.svg" alt="mlx" /></a></td>
+<td><a href="https://github.com/NVIDIA/NemoClaw"><img width="280" src="https://raw.githubusercontent.com/Adityaj0/Adityaj0/main/cards/nemoclaw.svg" alt="NemoClaw" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/lancedb/lancedb"><img width="280" src="https://raw.githubusercontent.com/Adityaj0/Adityaj0/main/cards/lancedb.svg" alt="lancedb" /></a></td>
+<td><a href="https://github.com/pactus-project/pactus-wallet"><img width="280" src="https://raw.githubusercontent.com/Adityaj0/Adityaj0/main/cards/pactus-wallet.svg" alt="pactus-wallet" /></a></td>
+</tr>
+</table>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=footer" alt="footer"/>
