@@ -2,15 +2,13 @@
 
 [adityaj0714@gmail.com](mailto:adityaj0714@gmail.com)
 
-## Pinned Repos
+## Repos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityaj0&repo=SuperLang&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityaj0&repo=AI_Agent_Swif&theme=default&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityaj0&repo=recipe-ai&theme=default&hide_border=true" />
-</p>
+| Repo | Language | Stars | Forks |
+|---|---|---|---|
+| [SuperLang](https://github.com/Adityaj0/SuperLang) | Python | ![stars](https://img.shields.io/github/stars/Adityaj0/SuperLang?style=flat-square&label=) | ![forks](https://img.shields.io/github/forks/Adityaj0/SuperLang?style=flat-square&label=) |
+| [AI_Agent_Swif](https://github.com/Adityaj0/AI_Agent_Swif) | TypeScript | ![stars](https://img.shields.io/github/stars/Adityaj0/AI_Agent_Swif?style=flat-square&label=) | ![forks](https://img.shields.io/github/forks/Adityaj0/AI_Agent_Swif?style=flat-square&label=) |
+| [recipe-ai](https://github.com/Adityaj0/recipe-ai) | TypeScript | ![stars](https://img.shields.io/github/stars/Adityaj0/recipe-ai?style=flat-square&label=) | ![forks](https://img.shields.io/github/forks/Adityaj0/recipe-ai?style=flat-square&label=) |
 
 ## Metrics
 
