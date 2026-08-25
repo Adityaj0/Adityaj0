@@ -7,25 +7,19 @@
 ### Tech Stack
 [![Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,git,github,docker,linux)](https://skillicons.dev)
 
-### GitHub Stats
-<img width="100%" src="https://raw.githubusercontent.com/Adityaj0/Adityaj0/main/github-metrics.svg" alt="GitHub Metrics" />
-
-### My Repos
-| Repo | Language | Stars | Forks |
-|---|---|---|---|
-| [SuperLang](https://github.com/Adityaj0/SuperLang) | Python | ![stars](https://img.shields.io/github/stars/Adityaj0/SuperLang?style=flat-square&label=) | ![forks](https://img.shields.io/github/forks/Adityaj0/SuperLang?style=flat-square&label=) |
-| [AI_Agent_Swif](https://github.com/Adityaj0/AI_Agent_Swif) | TypeScript | ![stars](https://img.shields.io/github/stars/Adityaj0/AI_Agent_Swif?style=flat-square&label=) | ![forks](https://img.shields.io/github/forks/Adityaj0/AI_Agent_Swif?style=flat-square&label=) |
-| [recipe-ai](https://github.com/Adityaj0/recipe-ai) | TypeScript | ![stars](https://img.shields.io/github/stars/Adityaj0/recipe-ai?style=flat-square&label=) | ![forks](https://img.shields.io/github/forks/Adityaj0/recipe-ai?style=flat-square&label=) |
-
 ### Open Source Contributions
 Repos where my pull requests have been merged:
 
-| Project | Merged PRs |
-|---|---|
-| [aws/aws-cdk-cli](https://github.com/aws/aws-cdk-cli) | 13 |
-| [ml-explore/mlx](https://github.com/ml-explore/mlx) | 10 |
-| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | 4 |
-| [lancedb/lancedb](https://github.com/lancedb/lancedb) | 3 |
-| [pactus-project/pactus-wallet](https://github.com/pactus-project/pactus-wallet) | 3 |
+<p>
+  <a href="https://github.com/aws/aws-cdk-cli/pulls?q=is%3Apr+author%3AAdityaj0+is%3Amerged"><img src="https://img.shields.io/badge/aws--cdk--cli-13%20merged%20PRs-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+  <a href="https://github.com/ml-explore/mlx/pulls?q=is%3Apr+author%3AAdityaj0+is%3Amerged"><img src="https://img.shields.io/badge/mlx-10%20merged%20PRs-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+</p>
+<p>
+  <a href="https://github.com/NVIDIA/NemoClaw/pulls?q=is%3Apr+author%3AAdityaj0+is%3Amerged"><img src="https://img.shields.io/badge/NemoClaw-4%20merged%20PRs-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></a>
+  <a href="https://github.com/lancedb/lancedb/pulls?q=is%3Apr+author%3AAdityaj0+is%3Amerged"><img src="https://img.shields.io/badge/lancedb-3%20merged%20PRs-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" /></a>
+</p>
+<p>
+  <a href="https://github.com/pactus-project/pactus-wallet/pulls?q=is%3Apr+author%3AAdityaj0+is%3Amerged"><img src="https://img.shields.io/badge/pactus--wallet-3%20merged%20PRs-2E2E2E?style=for-the-badge&logo=git&logoColor=white" /></a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=footer" alt="footer"/>
