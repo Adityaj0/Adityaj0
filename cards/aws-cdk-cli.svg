@@ -13,5 +13,5 @@
   <rect x="0" y="0" width="6" height="110" rx="3" fill="url(#grad-aws-cdk-cli)"/>
   <text x="24" y="38" font-size="19" font-weight="700" fill="#f0f0f5">aws-cdk-cli</text>
   <text x="24" y="66" font-size="14" fill="#a0a0b5">⭐ <tspan font-weight="600" fill="#c9b8f0">105</tspan></text>
-  <text x="24" y="90" font-size="14" fill="#a0a0b5">🔀 <tspan font-weight="600" fill="#c9b8f0">17 merged PRs</tspan></text>
+  <text x="24" y="90" font-size="14" fill="#a0a0b5">🔀 <tspan font-weight="600" fill="#c9b8f0">18 merged PRs</tspan></text>
 </svg>
